@@ -1,6 +1,6 @@
 module github.com/googleapis/gax-go/v2
 
-go 1.19
+go 1.18
 
 require (
 	github.com/google/go-cmp v0.5.9
