@@ -1,6 +1,6 @@
 module github.com/googleapis/gax-go
 
-go 1.19
+go 1.18
 
 require (
 	github.com/googleapis/gax-go/v2 v2.7.0
