@@ -1,4 +1,4 @@
-module github.com/googleapis/gax-go
+module github.com/421119407/gax-go/v2
 
 go 1.18
 
